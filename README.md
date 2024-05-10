@@ -1,6 +1,6 @@
 # gd8_library_xxxx
 
-This module is for Platform-based Programming Students
+This module is for Platform-based Programming Students in the odd semester of 2023.
 
 ## Getting Started
 
