@@ -1,6 +1,6 @@
 # gd8_library_xxxx
 
-A new Flutter project.
+This module is for Platform-based Programming Students
 
 ## Getting Started
 
